@@ -11,6 +11,8 @@
 
 ---
 
+https://github.com/user-attachments/assets/693f3df6-69ab-42ad-ae58-3acc86c2acaa
+
 ## Advanced NadFun Trading Bot for Monad Blockchain
 
 High-performance automated trading infrastructure specifically engineered for nadfun on the Monad blockchain. This nadfun bot features stealth fund distribution, anti-detection mechanisms, and intelligent volume generation to maximize profits while maintaining operational security.
